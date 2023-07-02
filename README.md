@@ -42,11 +42,12 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 
 ### Ver Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hqOewu3onhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+Puede ver el funcionamiento de la aplicación a través del siguiente enlace de Youtube:
+
+[![Comprehensive Markdown Crash Course](https://pixabay.com/get/gb5c51bdacece73c4a7c05c72843468db0405375c9b10a0257b6522ef6b351ac3ef0a1d4ff54b45cdbbf76e2329245a764652a5f0867c47974de42a566aa6d11ba80a940a2d5a81d12f46f5f09802a3ce_640.jpg)](https://youtu.be/hqOewu3onhs "Ver en Youtube")
 
 ## Abrir y ejecutar el proyecto en entorno de desarrollo
 
-1. Descargar el proyecto [aquí](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+1. Descargar el proyecto [aquí](https://github.com/juanfix/02-one-converter/archive/refs/tags/v1.0.0.zip).
 2. Descomprimir el archivo.
 3. Abrir la carpeta del proyecto con su IDE de preferencia y ejecutar el Main.java.
