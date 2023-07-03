@@ -44,7 +44,7 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 
 Puede ver el funcionamiento de la aplicación a través del siguiente enlace de Youtube:
 
-[![Comprehensive Markdown Crash Course](https://cdn.icon-icons.com/icons2/2890/PNG/512/apps_media_youtube_logo_video_multimedia_stream_download_play_clip_icon_182709.png)](https://youtu.be/hqOewu3onhs "Ver en Youtube")
+[![Comprehensive Markdown Crash Course](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://youtu.be/hqOewu3onhs "Ver en Youtube")
 
 ## Abrir y ejecutar el proyecto en entorno de desarrollo
 
